@@ -1,0 +1,22 @@
+{
+  "name": "ep_ui",
+  "version": "1.0.0",
+  "description": "put ui stuff here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samirsayyad/ep_ui.git"
+  },
+  "keywords": [
+    "Etherpad"
+  ],
+  "author": "Samir Sayyad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samirsayyad/ep_ui/issues"
+  },
+  "homepage": "https://github.com/samirsayyad/ep_ui#readme"
+}
