@@ -1,0 +1,15 @@
+{
+    "parts": [
+      {
+        "name": "main",
+        "client_hooks": {
+            "postAceInit": "ep_ui/static/js/index:documentReady"
+
+        },
+        "hooks": {
+          
+        }
+      }
+    ]
+  }
+  
