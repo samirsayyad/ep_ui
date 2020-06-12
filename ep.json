@@ -3,7 +3,8 @@
       {
         "name": "main",
         "client_hooks": {
-            "postAceInit": "ep_ui/static/js/index:documentReady"
+            "postAceInit": "ep_ui/static/js/index:documentReady",
+            "aceEditorCSS": "ep_ui/static/js/index:aceEditorCSS"
 
         },
         "hooks": {
